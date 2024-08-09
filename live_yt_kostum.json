@@ -1,1 +1,26 @@
+{
+	"home": [{
+			"id": 1,
+			"saweria": "https://saweria.co/MrMalas",
+			"registrasi": "https://saweria.co/MrMalas"
+		}
+	],
+	"data": [{
+			"id": 1,
+			"link": "https://wadahpintar.com/tete-bot/"
+		},
 
+		{
+			"id": 2,
+			"link": "https://youtu.be/yIz0sY1-nN8"
+		},
+		{
+			"id": 3,
+			"link": "https://youtu.be/EB-7kgA5-ms"
+		},
+		{
+			"id": 3,
+			"link": "http://adanesia.my.id/"
+		}
+	]
+}
